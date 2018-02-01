@@ -7,7 +7,7 @@
  */
 
 /**
- * Description of Able
+ * Alpha's controller
  *
  * @author JC
  */
