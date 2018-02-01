@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends Application
+class Golf extends Application
 {
 	/**
 	 * Golf Controller uses a regular expression to route any /i/ address value
